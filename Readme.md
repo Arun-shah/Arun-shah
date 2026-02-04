@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Arun Sah
-<img src="https://avatars.githubusercontent.com/u/257314517?s=400&u=8c6e252ec8c97501aef1f5c2599cc4e85e86b0b9&v=4"
+<img src="(https://avatars.githubusercontent.com/u/257314517?s=400&u=8c6e252ec8c97501aef1f5c2599cc4e85e86b0b9&v=4)"
      alt="Image"
      align="left"
      width="180"
