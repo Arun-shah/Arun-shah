@@ -1,10 +1,4 @@
 # 👋 Hi there, I'm Arun Sah
-<img src="(file:///C:/Users/admin/Desktop/1000028717.jpg)"
-     alt="Image"
-     align="right"
-     width="180"
-     style="border-radius:50%;" />
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=200&section=header&text=Full%20Stack%20Aspirant&fontSize=50" />
