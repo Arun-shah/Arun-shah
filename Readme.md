@@ -34,15 +34,6 @@ I am a passionate student developer currently learning **Web Development** at **
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adhikarisaroj795&theme=dark"
-       alt="GitHub Streak Stats"
-       style="border-radius:10px;" />
-</p>
-
-
 
 ---
 
