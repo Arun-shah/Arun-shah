@@ -1,4 +1,10 @@
 # 👋 Hi there, I'm Arun Sah
+<img src="https://avatars.githubusercontent.com/u/257314517?s=400&u=8c6e252ec8c97501aef1f5c2599cc4e85e86b0b9&v=4"
+     alt="Image"
+     align="left"
+     width="180"
+     style="border-radius:50%;" />
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=200&section=header&text=Full%20Stack%20Aspirant&fontSize=50" />
