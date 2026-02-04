@@ -11,8 +11,7 @@ I am a passionate student developer currently learning **Web Development** at **
 - 🌱 I’m currently learning **HTML, CSS, and JavaScript**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Anything! I'm happy to help**
-- ⚡ Fun fact: **I love debugging until midnight!**e
-- 👨‍🏫 Mentored by: [Arun Sah](https://github.com/Arun-shahS)
+- ⚡ Fun fact: **I love debugging until midnight!**
 
 ---
 
