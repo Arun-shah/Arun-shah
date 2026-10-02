@@ -37,7 +37,7 @@ Academic programming work and practical projects developed as part of my learnin
 </p>📫 Connect With Me
 
 - GitHub: "@Arun-shah" (https://github.com/Arun-shah)
-- LinkedIn: "Connect with me" (https://www.linkedin.com/in/arun-raj-642586399)
+- LinkedIn: "Connect with me" (https://www.linkedin.com/in/arun-sah-642586399?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
 
