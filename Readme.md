@@ -67,7 +67,7 @@ I use GitHub to document my learning journey, experiment with programming concep
     <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/">
+  <a href="https://www.facebook.com/arunraj.sah.73">
     <img src="https://cdn.simpleicons.org/facebook/1877F2" width="50" alt="Facebook" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
