@@ -1,97 +1,108 @@
-# Hi, I'm Arun Sah 👋
+ 
+<div align="center">
 
-**BIT Student | C/C++ Programmer | Python Programmer | Aspiring Software Developer**
+# 👋 Hi, I'm Arun Sah
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:06B6D4&height=170&section=header&text=Learn%20%E2%80%A2%20Build%20%E2%80%A2%20Grow&fontSize=34&fontColor=FFFFFF" alt="Learn • Build • Grow" />
-</p>
+### 💻 BIT Student | Python Programmer | Aspiring Software Developer
 
-## 👨‍💻 About Me
+*Learning, building, and improving one line of code at a time.*
 
-- 🎓 Bachelor of Information Technology (BIT) student at KIST College
-- 💻 Practicing programming with C and C++
-- 🐍 Completed a Python programming course and continuing to improve my skills
-- 🧩 Interested in problem-solving and Object-Oriented Programming
-- 🌱 Strengthening my programming fundamentals and learning web development
-- 🚀 Interested in building practical software projects
-- 🤝 Open to learning, collaboration, and new opportunities
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Python+Programming+%F0%9F%90%8D;C%2B%2B+Developer+%F0%9F%92%BB;Building+Projects+and+Learning+Every+Day!" alt="Animated typing intro" />
 
-## 🛠️ Skills & Technologies
+[![GitHub](https://img.shields.io/badge/GitHub-Arun--shah-181717?style=for-the-badge&logo=github)](https://github.com/Arun-shah)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![Facebook](https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook)](YOUR_FACEBOOK_URL)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=YOUR_EMAIL_ADDRESS)
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c" width="45" alt="C" />
-  <img src="https://skillicons.dev/icons?i=cpp" width="45" alt="C++" />
-  <img src="https://skillicons.dev/icons?i=python" width="45" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=html" width="45" alt="HTML5" />
-  <img src="https://skillicons.dev/icons?i=css" width="45" alt="CSS3" />
-  <img src="https://skillicons.dev/icons?i=js" width="45" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=git" width="45" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub" />
-</p>
-
-## 📚 Currently Learning
-
-- C / C++
-- Python programming and practical projects
-- Object-Oriented Programming
-- Data Structures & Algorithms
-- Web Development
-- Git & GitHub
-- Software Development Fundamentals
-
-## 🚀 Featured Project
-
-### 📂 1st Semester Projects
-
-A collection of academic programming projects and practical work developed during my BIT learning journey.
-
-🔗 **Repository:** [1st Semester Projects](https://github.com/Arun-shah/1st-semester-projects)
-
-## 💻 Projects & Practice
-
-I use GitHub to document my learning journey, experiment with programming concepts, and build practical projects.
-
-**Learn → Practice → Build → Improve**
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arun-shah&show_icons=true&hide_border=true&theme=transparent" height="165" alt="GitHub Statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arun-shah&layout=compact&hide_border=true&theme=transparent" height="165" alt="Top Languages" />
-</p>
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Arun-shah&hide_border=true&theme=transparent" alt="GitHub Streak" />
-</p>
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/Arun-shah">
-    <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/arun-raj-642586399">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/arunraj.sah.73">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="50" alt="Facebook" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=raj.gadhimai01@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="50" alt="Email" />
-  </a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <i>Learning consistently. Building thoughtfully. Improving every day.</i>
-</p>
+## 🙋‍♂️ About Me
 
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
+- 🎓 I am a **Bachelor of Information Technology (BIT)** student.
+- 🐍 I have completed a Python programming course.
+- 💻 I enjoy learning programming and building practical projects.
+- 🚗 I have worked on a **Vehicle Rental Management System** using C++.
+- 🌱 I am continuously improving my coding and problem-solving skills.
+- 🎯 My goal is to become a professional software developer.
+
+---
+
+## 🛠️ Languages & Tools
+
+<div align="center">
+
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js" alt="Programming skills" />
+
+### Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development tools" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🚗 Vehicle Rental Management System
+
+A C++ project focused on vehicle rentals, user registration, login, rental records, returns, and bill calculation.
+
+**Tech:** C++ · File Handling · OOP
+
+[![View Repository](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge&logo=github)](https://github.com/Arun-shah/Vehicle-rental-system-)
+
+### 💻 More Projects
+
+Explore my repositories to see my programming practice and other projects.
+
+[![Explore Repositories](https://img.shields.io/badge/Explore-My_Repositories-181717?style=for-the-badge&logo=github)](https://github.com/Arun-shah?tab=repositories)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Arun-shah&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arun-shah&layout=compact&theme=tokyonight&hide_border=true" alt="Top programming languages" />
+
+<img src="https://streak-stats.demolab.com?user=Arun-shah&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<!-- Enable the GitHub Actions workflow to generate this SVG. -->
+<img src="https://raw.githubusercontent.com/Arun-shah/Arun-shah/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+I am always interested in learning, collaborating, and connecting with fellow developers!
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Arun-shah)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=YOUR_EMAIL_ADDRESS)
+
+</div>
+
+<div align="center">
+
+### ✨ "Consistency is the key to becoming a better developer."
+
+⭐ Thanks for visiting my profile!
+
+</div>
