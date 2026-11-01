@@ -1,1 +1,254 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Happy Birthday Diya 🎂</title>
+
+<style>
+* { box-sizing: border-box; }
+
+body {
+    margin: 0;
+    min-height: 100vh;
+    overflow-x: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Georgia', serif;
+    color: white;
+    text-align: center;
+    background: radial-gradient(circle at top, #54204f, #160d2b 70%);
+}
+
+.card {
+    width: min(92%, 520px);
+    padding: 35px 20px;
+    margin: 25px auto;
+    border: 1px solid #ffffff35;
+    border-radius: 25px;
+    background: #ffffff12;
+    box-shadow: 0 0 40px #ff70b755;
+    backdrop-filter: blur(8px);
+    position: relative;
+    z-index: 2;
+}
+
+h1 {
+    color: #ffb6d9;
+    font-size: clamp(2rem, 8vw, 3rem);
+    text-shadow: 0 0 15px #ff69b4;
+    animation: glow 2s infinite alternate;
+}
+
+.name {
+    font-size: 2.8rem;
+    color: #ffe1f0;
+    margin: 12px 0;
+}
+
+.message {
+    font-size: 1.1rem;
+    line-height: 1.7;
+    color: #ffeaf4;
+}
+
+.cake {
+    position: relative;
+    width: 220px;
+    height: 175px;
+    margin: 55px auto 25px;
+}
+
+.plate {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 220px;
+    height: 15px;
+    border-radius: 50%;
+    background: #eee;
+    box-shadow: 0 5px 12px #0008;
+}
+
+.layer {
+    position: absolute;
+    left: 20px;
+    width: 180px;
+    height: 48px;
+    border-radius: 12px 12px 18px 18px;
+    background: linear-gradient(90deg, #d94c85, #ff9dbb, #d94c85);
+    box-shadow: inset 0 -8px 0 #a82d63;
+}
+
+.layer.bottom { bottom: 13px; }
+.layer.top {
+    bottom: 58px;
+    left: 37px;
+    width: 146px;
+    height: 43px;
+    background: linear-gradient(90deg, #ffb6d9, #fff0f6, #ff9ac5);
+    box-shadow: inset 0 -7px 0 #e875a6;
+}
+
+.icing {
+    position: absolute;
+    left: 37px;
+    bottom: 82px;
+    width: 146px;
+    height: 18px;
+    border-radius: 50%;
+    background: #fff0f6;
+}
+
+.candle {
+    position: absolute;
+    z-index: 2;
+    bottom: 100px;
+    left: 104px;
+    width: 12px;
+    height: 48px;
+    border-radius: 4px;
+    background: repeating-linear-gradient(
+        45deg, #fff 0 6px, #ff69a8 6px 12px
+    );
+}
+
+.flame {
+    position: absolute;
+    bottom: 145px;
+    left: 103px;
+    width: 14px;
+    height: 22px;
+    border-radius: 50% 50% 45% 45%;
+    background: #ffd34e;
+    box-shadow: 0 0 18px 8px #ff9d32;
+    animation: flicker .5s infinite alternate;
+    transform-origin: bottom;
+}
+
+.flame.off {
+    display: none;
+}
+
+button {
+    border: none;
+    padding: 13px 25px;
+    border-radius: 30px;
+    color: #6d1748;
+    background: linear-gradient(90deg, #ffc0dc, #fff0f6);
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+    box-shadow: 0 4px 18px #ff69b777;
+    transition: transform .2s;
+}
+
+button:hover { transform: scale(1.06); }
+
+#surprise {
+    display: none;
+    margin-top: 22px;
+    color: #ffd5e8;
+    font-size: 1.2rem;
+    line-height: 1.7;
+}
+
+.heart {
+    position: fixed;
+    bottom: -30px;
+    color: #ff8fc5;
+    animation: floatUp linear infinite;
+    pointer-events: none;
+    z-index: 1;
+}
+
+@keyframes glow {
+    from { text-shadow: 0 0 8px #ff69b4; }
+    to { text-shadow: 0 0 25px #ffb6d9; }
+}
+
+@keyframes flicker {
+    from { transform: rotate(-5deg) scale(1); }
+    to { transform: rotate(5deg) scale(1.12); }
+}
+
+@keyframes floatUp {
+    from { transform: translateY(0) rotate(0); opacity: 1; }
+    to { transform: translateY(-110vh) rotate(360deg); opacity: 0; }
+}
+</style>
+</head>
+
+<body>
+
+<div class="card">
+    <div style="font-size:2rem">🎉 💗 🎉</div>
+
+    <h1>Happy Birthday!</h1>
+    <div class="name">Diya ❤️</div>
+
+    <p class="message">
+        Today is your special day!<br>
+        May your life always be filled with<br>
+        happiness, love and beautiful memories.
+    </p>
+
+    <div class="cake">
+        <div class="plate"></div>
+        <div class="layer bottom"></div>
+        <div class="layer top"></div>
+        <div class="icing"></div>
+        <div class="candle"></div>
+        <div class="flame" id="flame"></div>
+    </div>
+
+    <p class="message">Make a wish and blow the candle! 🕯️</p>
+
+    <button onclick="celebrate()">🎂 Blow the Candle</button>
+
+    <div id="surprise">
+        ✨ A Special Day For You ✨<br>
+        May all your dreams come true! 💖<br>
+        <strong>With lots of wishes,<br>Sanjiwan</strong>
+    </div>
+
+    <p style="color:#ffd5e8;font-size:.85rem;margin-top:25px">
+        Made with ❤️ just for Diya
+    </p>
+</div>
+
+<script>
+function celebrate() {
+    document.getElementById("flame").classList.add("off");
+    document.getElementById("surprise").style.display = "block";
+    document.querySelector("button").textContent = "💖 Wish Made!";
+
+    for (let i = 0; i < 35; i++) {
+        const heart = document.createElement("div");
+        heart.className = "heart";
+        heart.textContent = ["💗", "💖", "✨", "💕"][Math.floor(Math.random() * 4)];
+        heart.style.left = Math.random() * 100 + "vw";
+        heart.style.animationDuration = (3 + Math.random() * 4) + "s";
+        heart.style.fontSize = (15 + Math.random() * 22) + "px";
+        document.body.appendChild(heart);
+        setTimeout(() => heart.remove(), 7500);
+    }
+}
+
+setInterval(() => {
+    const heart = document.createElement("div");
+    heart.className = "heart";
+    heart.textContent = Math.random() > .5 ? "💗" : "✨";
+    heart.style.left = Math.random() * 100 + "vw";
+    heart.style.animationDuration = (5 + Math.random() * 4) + "s";
+    heart.style.fontSize = "20px";
+    document.body.appendChild(heart);
+    setTimeout(() => heart.remove(), 9000);
+}, 700);
+</script>
+
+</body>
+</html>
+
